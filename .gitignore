@@ -1,0 +1,51 @@
+# =========================
+# KiCad generated files
+# =========================
+
+# Backup files
+*.bak
+*~
+
+# Autosave
+*-save.kicad_sch
+*-save.kicad_pcb
+
+# PCB editor temp files
+fp-info-cache/
+
+# Simulation / plot outputs
+*.net
+*.cir
+*.raw
+*.spice
+*.txt
+
+# Gerbers / manufacturing outputs (optional - usually you WANT these in repo)
+# Uncomment if you DON'T want to store them
+# *.gbr
+# *.drl
+
+# =========================
+# System junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Python cache (if scripts exist)
+# =========================
+__pycache__/
+*.pyc
