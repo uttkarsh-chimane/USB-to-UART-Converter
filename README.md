@@ -71,6 +71,7 @@ CP2102N UART communication block with TX/RX routing and headers.
 
 ## ⚒️ Hardware Architecture
 
+```
 USB Type-C
      │
      ▼
@@ -81,6 +82,8 @@ CP2102N USB-to-UART Bridge
      │
      ▼
 UART Header (TX, RX, GND, VBUS, RST)
+
+```
 
 ---
 
