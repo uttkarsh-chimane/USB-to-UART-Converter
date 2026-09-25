@@ -1,4 +1,12 @@
-### 💡 USB Type-C to UART Converter
+<h1 align="center">💡 USB Type-C to UART Converter</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/INTERFACE-USB%20TYPE--C-007EC6?style=flat&logo=usb&logoColor=white" alt="USB Type-C Interface" />
+  <img src="https://img.shields.io/badge/BRIDGE-CP2102N-FE7D37?style=flat" alt="CP2102N IC" />
+  <img src="https://img.shields.io/badge/PROTOCOL-UART%20%2F%20SERIAL-4C1?style=flat" alt="UART Protocol" />
+  <img src="https://img.shields.io/badge/POWER-USB%20VBUS%20(5V)-E05D44?style=flat" alt="USB Powered" />
+  <img src="https://img.shields.io/badge/EDA-KiCad%2010-3182CE?style=flat&logo=kicad&logoColor=white" alt="KiCad 10" />
+</p>
 
 ---
 
